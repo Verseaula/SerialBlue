@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+       android:id="@+id/menu_bluetooth_key"
+       android:icon="@mipmap/ic_action_bluetooth"
+       android:showAsAction="ifRoom"
+       android:title="Bluetooth" />
+  <item
+      android:id="@+id/menu_search"
+      android:icon="@mipmap/ic_menu_search_holo_dark"
+      android:showAsAction="ifRoom"
+      android:title="Search" />
+</menu>

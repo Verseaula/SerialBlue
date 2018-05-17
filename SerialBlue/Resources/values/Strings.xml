@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serial Blue</string>
+  
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">SerialBlue</string>
+
+    <!--  BluetoothChat -->
+    <string name="bluetooth_not_available">Bluetooth is not available</string>
+    <string name="bluetooth_not_opened">Bluetooth is off</string>
+    <string name="send">Send</string>
+    <!--DeviceListActivity-->
+    <string name="connecting_device">Device connecting</string>
+    <string name="connect_device_ok">Device connected</string>
+    <string name="connect_device_failed">Failed to connect device</string>
+    <string name="connect_device_lost">Device connection lost</string>
+    <string name="title_paired_devices">Paired Devices</string>
+  
+    <!--Options Menu-->
+    <string name="Connect">Connect a device</string>
+    <string name="Discoverable">Make discoverable</string>
+</resources>
